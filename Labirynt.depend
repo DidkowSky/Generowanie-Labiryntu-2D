@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1494848985 source:c:\users\didkowsky\desktop\szko³a\algorytmy grafiki komputerowej\labirynt\main.cpp
+	<allegro.h>
+	<fstream>
+	<iostream>
+	<vector>
+
